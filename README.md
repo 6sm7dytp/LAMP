@@ -1,10 +1,9 @@
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
+# LAMP STACK
+Cloud storage build within Microsoft Azure, providing storage and webapplication.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Configure a new Azure Virtual Machine and create an SSH private key to connect to your VM.
 
 ```bash
 pip install foobar
