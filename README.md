@@ -12,10 +12,11 @@ ssh -i C:\..\..[yougavethisaname]_key.pem azureuser@127.0.0.1
 ## Usage
 
 ```python
-import foobar
+installing updates
+$sudo apt-get update && sudo apt-get upgrade -y
 
-# returns 'words'
-foobar.pluralize('word')
+# Installeren LAMP stack [Linux, Apache, MySQL, dbserver, PHP]
+$ sudp apt-get install apache2
 
 # returns 'geese'
 foobar.pluralize('goose')
