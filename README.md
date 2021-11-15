@@ -6,7 +6,7 @@ Cloud storage build within Microsoft Azure, providing storage and webapplication
 Configure a new Azure Virtual Machine and create an SSH private key to connect to your VM.
 
 ```bash
-ssh -i C:\..\..[yougavethisaname]_key.pem azureuser@x.x.x.x.
+ssh -i C:\..\..[yougavethisaname]_key.pem azureuser@127.0.0.1
 ```
 
 ## Usage
