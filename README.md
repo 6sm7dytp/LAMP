@@ -12,7 +12,7 @@ ssh -i C:\..\..[yougavethisaname]_key.pem azureuser@127.0.0.1
 ## Usage
 
 ```python
-installing updates
+Installing updates
 $sudo apt-get update && sudo apt-get upgrade -y
 
 # Installeren LAMP stack [Linux, Apache, MySQL, dbserver, PHP]
